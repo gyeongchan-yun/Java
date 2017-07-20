@@ -1,3 +1,3 @@
-public interface Predator {
-    public String getFood(); //define method only
+public abstract interface Predator {
+    public abstract String getFood(); //define method only
 }
