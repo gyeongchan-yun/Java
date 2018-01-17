@@ -1,7 +1,7 @@
 # java
 JAVA Repository
 
-1. 'JUMP TO JAVA' EXAMPLE CODE
+1. 'JUMP TO JAVA' example code
 
 
 
